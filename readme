@@ -1,0 +1,6 @@
+Steps to execute the blackjack game :
+
+1. Unzip blackjack.zip attached here
+2. Go to terminal and cd to blackjack folder directory
+3. Type command "ruby game.rb"
+4. Tested on ruby version 2.2.3
